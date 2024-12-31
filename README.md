@@ -1,6 +1,6 @@
 # thermal-drones
 
-R projects containing code, datasets and spatial data accompanying the journal article:
+R project containing code, datasets and spatial data accompanying the journal article:
 
 ### 'Thermal drone surveys to detect arboreal fauna – improving population estimates and threatened species monitoring'
 
