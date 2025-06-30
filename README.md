@@ -12,7 +12,7 @@ Benjamin Wagner (1), Sarah Garnick (2), Michael Ryan (2), Joanne Isaac (3), Alan
 
 Correspondence: benjamin.wagner[at]unimelb.edu.au
 
-Currently under revision in Ecological Applications 
+Accpeted for publication in Ecological Applications 
 
 ## Abstract
 
